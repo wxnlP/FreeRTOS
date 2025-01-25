@@ -1,0 +1,3 @@
+C:/EmbeddedChipsProjects/STM32HAL/FreeRTOS/freertos1/cmake-build-debug/CMakeFiles/freertos1.elf.dir
+C:/EmbeddedChipsProjects/STM32HAL/FreeRTOS/freertos1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/EmbeddedChipsProjects/STM32HAL/FreeRTOS/freertos1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
